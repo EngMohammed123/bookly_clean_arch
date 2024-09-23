@@ -1,4 +1,6 @@
-part of 'featured_books_cubit.dart';
+
+import 'package:book_clean_arch/Features/home/domain/entities/book_entity.dart';
+import 'package:equatable/equatable.dart';
 
 abstract class FeaturedBooksState extends Equatable {
   const FeaturedBooksState();
