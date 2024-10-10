@@ -1,4 +1,3 @@
-
 import 'package:book_clean_arch/Features/home/domain/entities/book_entity.dart';
 import 'package:equatable/equatable.dart';
 
